@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map Multi7Seg
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Multi7Seg	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+initPins	KEYWORD2
+updateDisplay	KEYWORD2
+convertValue	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+COMMON_CATHODE	LITERAL1
+COMMON_ANODE	LITERAL1
