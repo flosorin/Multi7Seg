@@ -6,7 +6,7 @@
 * http://www.doctormonk.com/2012/01/arduino-timer-library.html
 *
 * Multi7Seg library by Florian Sorin (2018) 
-* https://github.com/captainBarbu/Multi7Seg.git
+* https://github.com/flosorin/Multi7Seg.git
 * 
 * ***********************************************************************/
 
