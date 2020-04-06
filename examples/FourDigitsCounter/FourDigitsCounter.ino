@@ -38,7 +38,6 @@ void loop() {
    
   displayer.updateDisplay(values, 1); // Only one value used here
   countingTimer.update();
-  delay(2);
 }
 
 void incrementCounter() {

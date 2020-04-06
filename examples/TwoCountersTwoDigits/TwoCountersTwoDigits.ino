@@ -39,7 +39,6 @@ void loop() {
    
   displayer.updateDisplay(values, 2);
   countingTimer.update();
-  delay(2);
 }
 
 void incrementFourDigitsCounter() {
